@@ -1,0 +1,6 @@
+Type in normal mode /<ctr-v>u0303
+/ - start search
+<Ctr-v>u - init utf-8 code input
+0303 - hex code combine character.
+
+:he unicode
